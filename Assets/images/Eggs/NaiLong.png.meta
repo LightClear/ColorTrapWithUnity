@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 7e854d0988d9aa840a95144089da4363
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NaiLong_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7291ba94d2c7341e0800000000000000
+      internalID: -2214790057784829657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e63e174ed5969720800000000000000
+      internalID: 2852632195894228705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc3617bde72006a0800000000000000
+      internalID: -6485139561481093947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_3
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d259abef1a5fbc30800000000000000
+      internalID: 4377316455971640025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_4
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155eed639c9042a70800000000000000
+      internalID: 8801170331602445649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_5
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bee996089657920800000000000000
+      internalID: 2987409928078945049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_6
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802a4ed4dc5aed8c0800000000000000
+      internalID: -3972555520100490744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_7
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c999c0a37336462c0800000000000000
+      internalID: -4439314243832211044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_8
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ea6348119ea0d0800000000000000
+      internalID: -3409628334476565694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_9
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bed9346795e3d260800000000000000
+      internalID: 7121287874187222708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_10
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dc2cf1d51020e80800000000000000
+      internalID: -8214001270893916865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_11
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d404331c32037a50800000000000000
+      internalID: 6517555542778709200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_12
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27faf767fae1bad20800000000000000
+      internalID: 3290757691680468850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_13
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3811c4ba6cee8f870800000000000000
+      internalID: 8716979615820419459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_14
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a5cdd78ca5ed20800000000000000
+      internalID: 3307239200914776502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_15
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a0000f62660d390800000000000000
+      internalID: -7795618637557003683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_16
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1045bf24fef7fda0800000000000000
+      internalID: -5910975661174603746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_17
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a64f93fb5adfe0e0800000000000000
+      internalID: -2238330401315666263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_18
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb0e83618f78f400800000000000000
+      internalID: 358176364073716662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_19
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa28e09061f914d0800000000000000
+      internalID: -3163231866200773977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_20
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 1
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd345c61b98c95ce0800000000000000
+      internalID: -1415880039403797540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0347f4b4173590800000000000000
+      internalID: -7694658670864168092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96843c3733c386210800000000000000
+      internalID: 1326376281943787625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9c91a7c6815f790800000000000000
+      internalID: -7497059150504277513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc54a917ffe0d820800000000000000
+      internalID: 2941114401239096538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ca32dbdc55f5c0800000000000000
+      internalID: -4182334579748978591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_26
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f89e7ec1a80ae90800000000000000
+      internalID: -7016456362688671884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_27
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf36b1b937f14750800000000000000
+      internalID: 6287578381952630710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_28
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a944c0a047b6000800000000000000
+      internalID: 30245409012357763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_29
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a15459885acbb0800000000000000
+      internalID: -4915018696473075016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_30
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cac119405e439d30800000000000000
+      internalID: 4436976164620323521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_31
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fb0632a6a05cfe0800000000000000
+      internalID: -1169517077256421600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_32
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b998ceb5879bbd00800000000000000
+      internalID: 989551143825217970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_33
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914c9e6e596739530800000000000000
+      internalID: 3860559691782931481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_34
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445a9b99961a0f60800000000000000
+      internalID: 8001232536973497422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_35
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa8acd17bae4850800000000000000
+      internalID: 6363211829042786243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_36
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4b4bb9873583d0800000000000000
+      internalID: -3205094495111918926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_37
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f37254b37ee7540800000000000000
+      internalID: 5007694077431856949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_38
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d12a7ab93cf670800000000000000
+      internalID: 8573791263682318585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_39
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9796e8e9b73797670800000000000000
+      internalID: 8536981543435790713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaiLong_40
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 429
+        width: 192
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a2967f5d6a0350800000000000000
+      internalID: 5983715311693768812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NaiLong_0: -2214790057784829657
+      NaiLong_1: 2852632195894228705
+      NaiLong_10: -8214001270893916865
+      NaiLong_11: 6517555542778709200
+      NaiLong_12: 3290757691680468850
+      NaiLong_13: 8716979615820419459
+      NaiLong_14: 3307239200914776502
+      NaiLong_15: -7795618637557003683
+      NaiLong_16: -5910975661174603746
+      NaiLong_17: -2238330401315666263
+      NaiLong_18: 358176364073716662
+      NaiLong_19: -3163231866200773977
+      NaiLong_2: -6485139561481093947
+      NaiLong_20: -1415880039403797540
+      NaiLong_21: -7694658670864168092
+      NaiLong_22: 1326376281943787625
+      NaiLong_23: -7497059150504277513
+      NaiLong_24: 2941114401239096538
+      NaiLong_25: -4182334579748978591
+      NaiLong_26: -7016456362688671884
+      NaiLong_27: 6287578381952630710
+      NaiLong_28: 30245409012357763
+      NaiLong_29: -4915018696473075016
+      NaiLong_3: 4377316455971640025
+      NaiLong_30: 4436976164620323521
+      NaiLong_31: -1169517077256421600
+      NaiLong_32: 989551143825217970
+      NaiLong_33: 3860559691782931481
+      NaiLong_34: 8001232536973497422
+      NaiLong_35: 6363211829042786243
+      NaiLong_36: -3205094495111918926
+      NaiLong_37: 5007694077431856949
+      NaiLong_38: 8573791263682318585
+      NaiLong_39: 8536981543435790713
+      NaiLong_4: 8801170331602445649
+      NaiLong_40: 5983715311693768812
+      NaiLong_5: 2987409928078945049
+      NaiLong_6: -3972555520100490744
+      NaiLong_7: -4439314243832211044
+      NaiLong_8: -3409628334476565694
+      NaiLong_9: 7121287874187222708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
