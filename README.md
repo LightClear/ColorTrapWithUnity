@@ -1,4 +1,4 @@
-# 使用UNity制作的ColorTrap游戏
+# 使用Unity制作的ColorTrap游戏
 
 ## 游戏简介
 - 大致内容与我之前一个发布的C++版本的相同。一个颜色反应游戏
